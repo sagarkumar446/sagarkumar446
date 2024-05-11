@@ -10,6 +10,8 @@ I'm passionate about [your interests, fields, or expertise]. Welcome to my GitHu
 - 📫 How to reach me: [sagat56780@gmail.com]
 - 😄 Pronouns: [Your Pronouns]
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sagar56780&theme=date-night)
 ## Skills
 
 ### Programming Languages
@@ -24,6 +26,8 @@ I'm passionate about [your interests, fields, or expertise]. Welcome to my GitHu
 - [Postgresql]
 - [Mysql]
 - []
+
+
 
 ## Projects
 
