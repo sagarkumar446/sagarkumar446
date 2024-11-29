@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sagar</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar56780&label=Profile%20views&color=0e75b6&style=flat" alt="sagar56780" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarkumar446&label=Profile%20views&color=0e75b6&style=flat" alt="sagarkumar446" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagar56780" alt="sagar56780" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarkumar446" alt="sagarkumar446" /></a> </p>
 
 - 🔭 I’m currently working on **Restaurant Management System**
 
@@ -12,7 +12,7 @@
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **sagat56780@gmail.com**
-- [![GitHub Streak](https://streak-stats.demolab.com?user=sagar56780&theme=date-night)](https://git.io/streak-stats)
+- [![GitHub Streak](https://streak-stats.demolab.com?user=sagarkumar446&theme=date-night)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
